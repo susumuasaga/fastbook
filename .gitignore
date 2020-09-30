@@ -6,3 +6,5 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+conda-env
+.idea
